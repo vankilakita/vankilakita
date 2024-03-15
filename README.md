@@ -1,4 +1,4 @@
-### vankilakita
+### - **Discord**: [vankilakita](https://discord.com/users/vankilakita)
 
 <!--
 **vankilakita/vankilakita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
